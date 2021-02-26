@@ -10,7 +10,7 @@
     "dependencies": {
         "@brunnerlivio/typeorm": "0.2.18",
         "@lxdhub/common": "^1.10.3",
-        "@nestjs/common": "6.10.14",
+        "@nestjs/common": "6.11.11",
         "@nestjs/core": "^6.7.0",
         "@nestjs/typeorm": "6.3.4",
         "fs-extra": "8.1.0",
