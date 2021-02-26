@@ -46,7 +46,7 @@
     },
     "devDependencies": {
         "@types/axios": "0.14.0",
-        "@types/jest": "24.0.21",
+        "@types/jest": "26.0.20",
         "jest": "24.9.0",
         "sqlite3": "4.2.0",
         "ts-jest": "24.3.0",
