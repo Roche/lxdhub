@@ -38,7 +38,7 @@
     "ngx-logger": "4.0.5",
     "ngx-take-until-destroy": "5.4.0",
     "normalize.css": "8.0.1",
-    "rxjs": "6.5.2",
+    "rxjs": "6.6.6",
     "rxjs-compat": "6.6.2",
     "tslib": "1.14.1",
     "typescript": "3.5.3",
