@@ -24,7 +24,7 @@
         "prepare": "lerna run prepare"
     },
     "devDependencies": {
-        "@types/node": "12.12.1",
+        "@types/node": "12.20.5",
         "fs-extra": "8.1.0",
         "js-yaml": "3.13.1",
         "lerna": "3.22.1",
